@@ -1,0 +1,6 @@
+echo "# DS-LAB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Manjuchandan/DS-LAB.git
+git push -u origin master
